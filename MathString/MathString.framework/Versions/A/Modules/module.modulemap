@@ -1,0 +1,6 @@
+framework module MathString {
+  umbrella header "MathString.h"
+
+  export *
+  module * { export * }
+}
